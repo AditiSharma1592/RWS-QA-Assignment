@@ -41,7 +41,7 @@ Requirements to run test:
 2. Maven 3.8.5
 3. To run through
 (i) Terminal: execute command `mvn clean test` (after navigating to project on terminal).
-(ii) Eclipse IDE: run MyTestRunner.java as a JUnit test.
+(ii) Eclipse IDE: run TestRunner.java as a JUnit test.
 
 ## Test Reports
 
